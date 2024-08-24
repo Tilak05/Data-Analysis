@@ -4,7 +4,7 @@ In this internship i have learn so many things related to data analysis and they
 
 **Topics**
 Python programming language.
-python packages - Numpy, Sandas, Matplotlib, Seaborn and so on.
+python packages - Numpy, Pandas, Matplotlib, Seaborn and so on.
 Exploratory data analysis.
 Statistics - Measure of Central Tendency, Measure of Dispersion.
 Hypnosis Testing
