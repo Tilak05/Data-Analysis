@@ -7,7 +7,7 @@ Python programming language.
 python packages - Numpy, Pandas, Matplotlib, Seaborn and so on.
 Exploratory data analysis.
 Statistics - Measure of Central Tendency, Measure of Dispersion.
-Hypnosis Testing
+Hypnosis Testing,
 Tableau 
 
 **Projects**
